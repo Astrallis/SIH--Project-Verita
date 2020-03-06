@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "30420378580",
+    "firebase_url": "https://verita-81aed.firebaseio.com",
+    "project_id": "verita-81aed",
+    "storage_bucket": "verita-81aed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30420378580:android:97d448c9ddd7b95c7c6c41",
+        "android_client_info": {
+          "package_name": "com.example.verita"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30420378580-r9apv7to4rsos68j0ipm4kn1ke0509qr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUgqSEPWInPtLkkz6qFMoh1M5ad85ZqQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30420378580-r9apv7to4rsos68j0ipm4kn1ke0509qr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
